@@ -500,7 +500,7 @@ input[type="submit"]:hover {
 
 /* media queries */
 
-@media screen and (max-width: 867px) {
+@media screen and (max-width: 900px) {
   .landing-text h1 {
     font-size: 8rem;
   }
@@ -555,7 +555,7 @@ input[type="submit"]:hover {
   }
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 640px) {
   .menu-toggler {
     top: 2rem;
     right: 2rem;
